@@ -159,4 +159,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Built by [Syed Shaharham](https://github.com/syedshaaharham)*
+*Built by [Syed Shah arham](https://github.com/syedshaaharham)*
